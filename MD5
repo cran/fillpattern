@@ -1,12 +1,12 @@
-2f7fd5a22b8baf0c30635a76440737aa *DESCRIPTION
+179437935e1cd917baf8f0e5e1fa6071 *DESCRIPTION
 33022af24620a4b954de4c88bd1ccc58 *LICENSE
 ffc3399053c239ac77cd340b17b5a221 *NAMESPACE
-a3763dac1ad53818b898ea2152e92279 *NEWS.md
+aad6ee6c16ac90dd84a5634583a45a16 *NEWS.md
 a0eca41dc991651f3b4fb74127561c6e *R/fill_pattern.r
 8071182e7d65adae795ff948350f83fe *R/makeContent.r
 54a254680a2c5d75864ad255ddd8c915 *R/re-exports.r
 41e2156c7ba72691939ac3851927d967 *R/scale_fill_pattern.r
-0af020d3df0b897d248b8bf8d2c59b61 *README.md
+3a34bf1adc58daa46c11a602454aab5f *README.md
 3d9a3d65d30a95e355500f90b461caba *man/figures/README-unnamed-chunk-3-1.png
 b9f0b0ed24f25cd12673021ff39a90e8 *man/figures/README-unnamed-chunk-4-1.png
 58577b7a1ed61e81423108fa2fcdd4d8 *man/figures/README-unnamed-chunk-5-1.png
